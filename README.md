@@ -1,8 +1,8 @@
 # AVR-based-simple-obstacle-avoiding-bot
 
 Pseudocode:
-All sensors detect no obstacle-- Move forward
-Obstacle on left- Move right
-Obstacle in front- Move backward and take a turn accordingly
-Obstacle on right- Move left
-All sensors detect obstacle- Move backward and take U turn
+a) All sensors detect no obstacle- Move forward
+b) Obstacle on left- Move right
+c) Obstacle in front- Move backward and take a turn accordingly
+d) Obstacle on right- Move left
+e) All sensors detect obstacle- Move backward and take U turn
