@@ -1,0 +1,1 @@
+obs.o: obs.c
